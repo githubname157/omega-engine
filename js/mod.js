@@ -1,7 +1,7 @@
 var mod = {
-    primaryName: "ω",
-    secondaryName: "Engine",
-    version: "1.0.0",
+    primaryName: "sus",
+    secondaryName: "engine",
+    version: "1.0.1",
     engineVer: "0.2.3 P1", //DO NOT MODIFY
     debugMode: true,
     themes: [
